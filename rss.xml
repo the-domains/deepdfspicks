@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Deepdfspicks]]></title>
+        <description><![CDATA[Deepdfspicks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 23:36:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Tenner: 10 Premier League signings that have failed]]></title>
+            <description><![CDATA[<article><h1>Top Tenner: 10 Premier League signings that have failed</h1><p>tip toe through the transfers with me...</p><img src="http://a.espncdn.com/combiner/i/?img=/photo/2016/1227/r39149_1296x729_16-9.jpg&w=1500&h=1500&scale=crop&site=espnfc"></article>]]></description>
+            <link>http://www.espnfc.com/blog/espn-fc-united-blog/68/post/2799393/top-tenner-premier-league-transfer-failures</link>
+            <guid isPermaLink="false">e9c251b5-387e-47fc-b1d7-f49718249535</guid>
+            <pubDate>Wed, 03 Feb 2016 23:35:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
